@@ -37,14 +37,3 @@ I develop tailored solutions for:
 - **Automation**: Multithreading, API integration, custom scripts
 - **Tools & Platforms**: Selenium, TikTok/Instagram/YouTube APIs
 
-
-## 🔗 Connect with Me
-- **Telegram**: [@YourTelegramUsername](https://t.me/YourTelegramUsername)
-- **Email**: yourname@example.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
-- **GitHub**: [Your GitHub](https://github.com/YourGitHub)
-
----
-
-## 💬 Let's Collaborate!
-I'm open to exciting Web3, blockchain, and automation projects. Feel free to reach out if you have ideas, need assistance, or are looking for a developer to bring your vision to life!
