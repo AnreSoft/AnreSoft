@@ -1,4 +1,5 @@
 # Welcome to My GitHub! 👋
+![Uploading GH-preview(1).png…]()
 
 ## About Me
 Hi, I'm a **Python Developer** specializing in:
@@ -37,26 +38,6 @@ I develop tailored solutions for:
 - **Automation**: Multithreading, API integration, custom scripts
 - **Tools & Platforms**: Selenium, TikTok/Instagram/YouTube APIs
 
----
-
-## 🌟 Featured Projects
-1. **Crypto Wallet Automation Tool**
-   - Automates wallet monitoring, seed phrase management, and fund withdrawals.
-   - Supports Ethereum and Binance Smart Chain.
-
-2. **TikTok Creator Pro**
-   - Automates account creation and mass video uploads.
-   - Built for marketers and advertisers scaling TikTok traffic.
-
-3. **AccScan Pro**
-   - Validates Telegram, YouTube, and Instagram accounts.
-   - Optimized for traffic managers and advertisers.
-
-4. **MailSpoof Pro**
-   - A custom solution for email-based automation and spoofing.
-   - Designed for advanced traffic workflows.
-
----
 
 ## 🔗 Connect with Me
 - **Telegram**: [@YourTelegramUsername](https://t.me/YourTelegramUsername)
